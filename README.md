@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/09767967-6169-4aa4-ad8f-26454f0be678)
+
+
 <h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 <ul>
   <li>I'm Ankit currently working at Goldman Sachs as a SDE III having 4+ years of experience working in various domains like full stack , backend , Frontend Development </li>
